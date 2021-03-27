@@ -11,6 +11,8 @@
 		7CE039F0260F86C400727DC9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CE039EF260F86C400727DC9 /* ContentView.swift */; };
 		7CE039F2260F86C600727DC9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7CE039F1260F86C600727DC9 /* Assets.xcassets */; };
 		7CE039F5260F86C600727DC9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7CE039F4260F86C600727DC9 /* Preview Assets.xcassets */; };
+		7CE039FE260F86FB00727DC9 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CE039FD260F86FB00727DC9 /* File.swift */; };
+		7CE03A01260F91EE00727DC9 /* detail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CE03A00260F91EE00727DC9 /* detail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		7CE039F1260F86C600727DC9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7CE039F4260F86C600727DC9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7CE039F6260F86C600727DC9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7CE039FD260F86FB00727DC9 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
+		7CE03A00260F91EE00727DC9 /* detail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = detail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 			children = (
 				7CE039ED260F86C400727DC9 /* favouriteBookApp.swift */,
 				7CE039EF260F86C400727DC9 /* ContentView.swift */,
+				7CE039FD260F86FB00727DC9 /* File.swift */,
+				7CE03A00260F91EE00727DC9 /* detail.swift */,
 				7CE039F1260F86C600727DC9 /* Assets.xcassets */,
 				7CE039F6260F86C600727DC9 /* Info.plist */,
 				7CE039F3260F86C600727DC9 /* Preview Content */,
@@ -139,6 +145,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				7CE039F0260F86C400727DC9 /* ContentView.swift in Sources */,
+				7CE039FE260F86FB00727DC9 /* File.swift in Sources */,
+				7CE03A01260F91EE00727DC9 /* detail.swift in Sources */,
 				7CE039EE260F86C400727DC9 /* favouriteBookApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
